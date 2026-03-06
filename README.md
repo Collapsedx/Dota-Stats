@@ -15,3 +15,4 @@ What it does:
 - Quick hero lookup
 
 Just useful stats
+<img width="733" height="1252" alt="image" src="https://github.com/user-attachments/assets/86c2c497-0c30-4728-85d0-689919d92cb5" />
